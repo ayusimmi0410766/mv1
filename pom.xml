@@ -32,10 +32,10 @@
          <version>3.2.0</version>
          <configuration>
          <archive>
-         <mainfest>
+         <manifest>
          <addClasspath>true</addClasspath>
          <mainClass>org.example.App</mainClass>
-         </mainfest>
+         </manifest>
          </archive>
          </configuration>
          </plugin>
